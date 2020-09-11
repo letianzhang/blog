@@ -1,6 +1,3 @@
-# Allow to cache content generation. Introduced in NexT v6.0.0.
-cache:
-  enable: true
 # Remove unnecessary files after hexo generate.
 minify: true
 #scheme: Muse
@@ -17,3 +14,34 @@ menu:
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
+social:
+  GitHub: https://github.com/letianzhang || fab fa-github
+  E-Mail: mailto:15142334091@@163.com || fa fa-envelope
+footer:
+  icon:
+    animated: true
+symbols_count_time:
+  separated_meta: true
+  item_text_total: true
+related_posts:
+  enable: true
+  display_in_home: true
+reading_progress:
+  enable: true
+  color: "#37c6c0"
+  height: 2px
+bookmark:
+  enable: false
+  # Customize the color of the bookmark.
+  color: "#222"
+  # If auto, save the reading progress when closing the page or clicking the bookmark-icon.
+  # If manual, only save it by clicking the bookmark-icon.
+  save: auto
+# Follow me on GitHub banner in right-top corner.
+github_banner:
+  enable: true
+  permalink: https://github.com/letianzhang
+  title: Follow me on GitHub
+baidu_site_verification: code-aL6aaiBAm7
+bing_site_verification: A1C6117723A31C8FD11394376EDBD912
+livere_uid: 'MTAyMC81MTUyOC8yODAwOQ=='
