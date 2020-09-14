@@ -50,3 +50,4 @@ chat:
   service: chatra
   icon: fa fa-comment
   text: Chat
+fancybox: true
