@@ -37,3 +37,7 @@ valine:
   appId: M0ei5nSCqRVPKskpWOrsLGrk-gzGzoHsz
   appKey: HPK3Gox3VjWAuSGMTxQD0d2g
 tag_icon: true
+rating:
+  enable: true
+  id: 27248
+  color:  "#fc6423"
