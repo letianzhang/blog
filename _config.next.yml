@@ -4,6 +4,8 @@ darkmode: true
 menu:
   home: / || fa fa-home
   archives: /archives/ || fa fa-archive
+  tags: /tags/ || fa fa-tags
+  categories: /categories/ || fa fa-th
 social:
   GitHub: 'https://github.com/letianzhang || fab fa-github'
   E-Mail: 'mailto:15142334091@@163.com || fa fa-envelope'
@@ -34,3 +36,4 @@ valine:
   enable: true
   appId: M0ei5nSCqRVPKskpWOrsLGrk-gzGzoHsz
   appKey: HPK3Gox3VjWAuSGMTxQD0d2g
+tag_icon: true
