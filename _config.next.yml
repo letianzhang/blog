@@ -41,3 +41,12 @@ rating:
   enable: true
   id: 27248
   color:  "#fc6423"
+chatra:
+  enable: true
+  async: true
+  id: YcinC4Y22MCgKXNTt
+chat:
+  enable: true
+  service: chatra
+  icon: fa fa-comment
+  text: Chat
