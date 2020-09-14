@@ -103,6 +103,8 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: 'https://github.com/letianzhang/letianzhang.github.io.git'
-  branch: 'master'
+  type: sftp
+  host: 139.155.7.187
+  user: ubuntu
+  pass: zhang123
+  remotePath: /usr/share/nginx/blog
