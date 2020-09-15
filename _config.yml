@@ -107,4 +107,4 @@ deploy:
   host: 139.155.7.187
   user: ubuntu
   pass: zhang123
-  remotePath: /usr/share/nginx/blog
+  remotePath: /home/ubuntu/blog
