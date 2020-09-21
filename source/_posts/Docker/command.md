@@ -20,6 +20,8 @@ $ 18.04
 $ Docker version 19.03.12, build 48a66213fe
 ```
 
+<!--more-->
+
 ## 重启Docker
 
 ### 输入下面命令
