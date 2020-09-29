@@ -34,4 +34,3 @@ Methref.of(Str.class).name((str) -> str.hello(null, 0));
 ### 注意
 1. 方法并不会执行
 1. 带参数的方法直接传递null即可
-## 场景
