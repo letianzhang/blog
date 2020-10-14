@@ -12,6 +12,10 @@ social:
 footer:
   icon:
     animated: true
+  beian:
+    enable: true
+    icp: 蜀ICP备2020030005号-1
+    gongan_num: 蜀ICP备2020030005号
 symbols_count_time:
   separated_meta: true
   item_text_total: true
